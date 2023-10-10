@@ -7,7 +7,7 @@ sudo apt update
 ```
 ---
 
-
+```bash
 sudo useradd -s /bin/bash -d /opt/stack -m stack
 sudo chmod +x /opt/stack
 ```
